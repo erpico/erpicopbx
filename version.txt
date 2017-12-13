@@ -1,6 +1,6 @@
-acdclient.exe	1.2.7.12
+acdclient.exe	1.2.7.13
 acllib.dll	1.2.1.2
-core.dll	1.2.30.26
+core.dll	1.2.31.27
 erpicocti.dll	1.2.4.14
 erpicopbx.dll	1.2.2.2
 erpicosip.dll	1.2.2.2
