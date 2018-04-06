@@ -1,4 +1,4 @@
-acdclient.exe	1.2.11.31
+acdclient.exe	1.2.11.32
 acllib.dll	1.2.2.23
 chrome_elf.dll	62.0.3202.94
 core.dll	1.2.41.52
