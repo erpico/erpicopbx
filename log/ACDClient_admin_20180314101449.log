@@ -1,0 +1,5 @@
+14.03.2018 10:14:49 INFO: CheckForUpdate returned 7
+14.03.2018 10:14:49 INFO: Softphone: Регистрация
+14.03.2018 10:14:49 INFO: CallHandlingPage::OnInitDialog() call ID: 0  state: None (0)  called: , calling: 
+14.03.2018 10:14:49 INFO: Softphone: Успешное завершение регистрации
+14.03.2018 10:14:53 INFO: CallHandlingPage::OnInitDialog() call ID: 0  state: None (0)  called: , calling: 

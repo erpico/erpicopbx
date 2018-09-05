@@ -1,0 +1,48 @@
+18.04.2018 16:21:01 INFO: CheckForUpdate returned 7
+18.04.2018 16:21:01 ALL: 18.04.2018 16:21:01: Received event: {"event":"state","state":6}
+
+18.04.2018 16:21:01 ALL: 18.04.2018 16:21:01: Received event: {"event":"state","state":6}
+
+18.04.2018 16:21:18 ALL: 18.04.2018 16:21:18: Received event: {"event":"state","state":6}
+
+18.04.2018 16:21:18 ALL: 18.04.2018 16:21:18: Received event: {"event":"state","state":6}
+
+18.04.2018 16:21:18 ALL: 18.04.2018 16:21:18: Received event: {"event":"state","state":6}
+
+18.04.2018 16:21:18 ALL: 18.04.2018 16:21:18: Received event: {"event":"state","state":6}
+
+18.04.2018 16:21:26 WARNING: ACD Client error: [3] Соединение с сервером телефонии потеряно
+18.04.2018 16:21:26 ALL: 18.04.2018 16:21:26: Received event: {"event":"state","state":6}
+
+18.04.2018 16:21:26 ALL: 18.04.2018 16:21:26: Received event: {"event":"state","state":6}
+
+18.04.2018 16:46:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:47:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:48:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:49:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:50:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:51:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:52:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:53:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:54:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:55:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:56:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:57:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:58:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 16:59:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+
+18.04.2018 17:00:01 WARNING: CBrowserException: [code=12007] The server name or address could not be resolved
+

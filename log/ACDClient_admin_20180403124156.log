@@ -1,0 +1,45 @@
+03.04.2018 12:41:56 INFO: CheckForUpdate returned 7
+03.04.2018 12:41:57 INFO: Softphone: Регистрация
+03.04.2018 12:41:57 INFO: CallHandlingPage::OnInitDialog() call ID: 0  state: None (0)  called: , calling: 
+03.04.2018 12:41:57 INFO: Softphone: Успешное завершение регистрации
+03.04.2018 12:42:01 INFO: CallHandlingPage::OnInitDialog() call ID: 0  state: None (0)  called: , calling: 
+03.04.2018 12:42:07 ALL: 03.04.2018 12:42:07: Received event: {"event":"state","state":6}
+
+03.04.2018 12:42:07 ALL: 03.04.2018 12:42:07: Received event: {"event":"state","state":6}
+
+03.04.2018 12:42:07 ALL: 03.04.2018 12:42:07: Received event: {"event":"state","state":6}
+
+03.04.2018 12:42:07 ALL: 03.04.2018 12:42:07: Received event: {"event":"state","state":6}
+
+03.04.2018 12:42:07 ALL: 03.04.2018 12:42:07: Received event: {"event":"state","state":6}
+
+03.04.2018 12:42:07 ALL: 03.04.2018 12:42:07: Received event: {"event":"state","state":6}
+
+03.04.2018 12:42:10 ALL: 03.04.2018 12:42:10: Received event: {"event":"state","state":5}
+
+03.04.2018 12:42:10 ALL: 03.04.2018 12:42:10: Received event: {"event":"state","state":5}
+
+03.04.2018 12:42:10 ALL: 03.04.2018 12:42:10: Received event: {"event":"state","state":5}
+
+03.04.2018 12:43:02 ALL: 03.04.2018 12:43:02: Received event: {"event":"originate_response","id":"15227483892833","response":"Success"}
+
+03.04.2018 12:43:03 ALL: 03.04.2018 12:43:03: Received event: {"event":"originate_response","id":"15227483892833","response":"Success"}
+
+03.04.2018 12:43:03 ALL: 03.04.2018 12:43:03: Received event: {"cid":"90080018","direction":"in","event":"ring","id":"15227485842865","name":"","queuename":"mail"}
+
+03.04.2018 12:43:03 ALL: 03.04.2018 12:43:03: Received event: {"cid":"90080018","direction":"in","event":"bridge","id":"15227485842863","queuename":"mail"}
+
+03.04.2018 12:43:03 ALL: Softphone: Начало разговора
+03.04.2018 12:43:03 INFO: CallHandlingPage::OnInitDialog() call ID: 15227485842863  state: Connected (4)  called: mail, calling: 90080018
+03.04.2018 12:43:24 INFO: CallHandlingPage::RemoveMe() call ID: 15227485842863
+03.04.2018 12:43:24 ALL: 03.04.2018 12:43:24: Received event: {"cid":"90080018","direction":"out","event":"hangup","id":"15227485842865"}
+
+03.04.2018 12:43:24 ALL: Softphone: Разговор завершен
+03.04.2018 12:43:25 ALL: 03.04.2018 12:43:25: Received event: {"cid":"90080018","direction":"out","event":"hangup","id":"15227485842865"}
+
+03.04.2018 12:43:29 ALL: 03.04.2018 12:43:29: Received event: {"event":"state","state":6}
+
+03.04.2018 12:43:29 ALL: 03.04.2018 12:43:29: Received event: {"event":"state","state":6}
+
+03.04.2018 12:43:29 ALL: 03.04.2018 12:43:29: Received event: {"event":"state","state":6}
+

@@ -1,0 +1,53 @@
+03.04.2018 12:39:21 INFO: CheckForUpdate returned 7
+03.04.2018 12:39:22 INFO: Softphone: Регистрация
+03.04.2018 12:39:22 INFO: CallHandlingPage::OnInitDialog() call ID: 0  state: None (0)  called: , calling: 
+03.04.2018 12:39:22 WARNING: Can't get response node
+03.04.2018 12:39:23 INFO: Softphone: Регистрация
+03.04.2018 12:39:23 INFO: Softphone: Успешное завершение регистрации
+03.04.2018 12:39:37 ALL: 03.04.2018 12:39:37: Received event: {"event":"state","state":6}
+
+03.04.2018 12:39:37 ALL: 03.04.2018 12:39:37: Received event: {"event":"state","state":6}
+
+03.04.2018 12:39:39 ALL: 03.04.2018 12:39:39: Received event: {"event":"state","state":5}
+
+03.04.2018 12:39:50 ALL: 03.04.2018 12:39:50: Received event: {"cid":"84852674267","direction":"in","event":"ring","id":"15227483914407","name":"4852674267","queuename":""}
+
+03.04.2018 12:39:50 ALL: 03.04.2018 12:39:50: Received event: {"cid":"84852674267","direction":"in","event":"ring","id":"15227483914405","name":"4852674267","queuename":"demo"}
+
+03.04.2018 12:40:04 ALL: Softphone: Начало разговора
+03.04.2018 12:40:04 ALL: 03.04.2018 12:40:04: Received event: {"cid":"84852674267","direction":"in","event":"bridge","id":"15227483904404","queuename":"demo"}
+
+03.04.2018 12:40:04 INFO: CallHandlingPage::OnInitDialog() call ID: 15227483904404  state: Connected (4)  called: demo, calling: 84852674267
+03.04.2018 12:40:04 WARNING: Can't get response node
+03.04.2018 12:40:05 ALL: 03.04.2018 12:40:05: Received event: {"cid":"84852674267","direction":"in","event":"bridge","id":"15227483904404","queuename":"demo"}
+
+03.04.2018 12:40:05 ALL: 03.04.2018 12:40:05: Received event: {"cid":"84852674267","direction":"out","event":"hangup","id":"15227483914407"}
+
+03.04.2018 12:40:05 ALL: 03.04.2018 12:40:05: Received event: {"cid":"84852674267","direction":"out","event":"hangup","id":"15227483914407"}
+
+03.04.2018 12:40:05 ALL: 03.04.2018 12:40:05: Received event: {"cid":"84852674267","direction":"in","event":"hangup","id":"15227483914406"}
+
+03.04.2018 12:40:05 ALL: 03.04.2018 12:40:05: Received event: {"cid":"84852674267","direction":"in","event":"hangup","id":"15227483914406"}
+
+03.04.2018 12:41:26 INFO: CallHandlingPage::OnBnClickedHangUp() call ID: 15227483904404
+03.04.2018 12:41:26 ALL: 03.04.2018 12:41:26: Received event: {"cid":"84852674267","direction":"out","event":"hangup","id":"15227483914405"}
+
+03.04.2018 12:41:26 INFO: CallHandlingPage::ScheduleClose() call ID: 15227483904404
+03.04.2018 12:41:26 ALL: Softphone: Разговор завершен
+03.04.2018 12:41:26 ALL: 03.04.2018 12:41:26: Received event: {"cid":"84852674267","direction":"out","event":"hangup","id":"15227483914405"}
+
+03.04.2018 12:41:26 ALL: 03.04.2018 12:41:26: Received event: {"cid":"84852674267","direction":"in","event":"hangup","id":"15227483904404"}
+
+03.04.2018 12:41:26 ALL: 03.04.2018 12:41:26: Received event: {"cid":"84852674267","direction":"in","event":"hangup","id":"15227483904404"}
+
+03.04.2018 12:41:26 INFO: CallHandlingPage::ScheduleClose() call ID: 15227483904404
+03.04.2018 12:41:26 INFO: CallHandlingPage::ScheduleClose() call ID: 15227483904404
+03.04.2018 12:41:27 INFO: CallHandlingPage::OnTimer(1) call ID: 15227483904404
+03.04.2018 12:41:28 INFO: CallHandlingPage::OnTimer(1) call ID: 15227483904404
+03.04.2018 12:41:29 INFO: CallHandlingPage::OnTimer(1) call ID: 15227483904404
+03.04.2018 12:41:30 INFO: CallHandlingPage::OnTimer(1) call ID: 15227483904404
+03.04.2018 12:41:31 INFO: CallHandlingPage::OnTimer(1) call ID: 15227483904404
+03.04.2018 12:41:31 INFO: CallHandlingPage::OnBnClickedHangUp() call ID: 15227483904404
+03.04.2018 12:41:31 INFO: CallHandlingPage::RemoveMe() call ID: 15227483904404
+03.04.2018 12:41:35 ALL: 03.04.2018 12:41:35: Received event: {"event":"state","state":6}
+

@@ -1,0 +1,120 @@
+25.07.2018 11:27:29 INFO: CheckForUpdate returned 7
+25.07.2018 11:27:30 INFO: Softphone: Регистрация
+25.07.2018 11:27:30 ALL: 25.07.2018 11:27:30: Received event: {"event":"state","state":6}
+
+25.07.2018 11:27:30 ALL: 25.07.2018 11:27:30: Received event: {"event":"state","state":6}
+
+25.07.2018 11:27:30 ALL: 25.07.2018 11:27:30: Received event: {"event":"state","state":6}
+
+25.07.2018 11:27:30 ALL: 25.07.2018 11:27:30: Received event: {"event":"state","state":6}
+
+25.07.2018 11:27:30 ALL: 25.07.2018 11:27:30: Received event: {"event":"state","state":6}
+
+25.07.2018 11:27:30 ALL: 25.07.2018 11:27:30: Received event: {"event":"state","state":6}
+
+25.07.2018 11:27:31 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 11:27:31 WARNING: ACD Client error: [3] Соединение с сервером телефонии потеряно
+25.07.2018 11:27:31 ALL: 25.07.2018 11:27:31: Received event: {"event":"state","state":6}
+
+25.07.2018 11:27:31 ALL: 25.07.2018 11:27:31: Received event: {"event":"state","state":6}
+
+25.07.2018 11:27:31 ALL: 25.07.2018 11:27:31: Received event: {"event":"state","state":6}
+
+25.07.2018 11:32:25 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 11:37:20 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 11:42:15 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 11:47:10 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 11:52:05 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 11:57:00 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:01:55 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:06:50 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:11:45 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:16:40 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:21:35 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:26:30 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:31:25 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:35:59 WARNING: ACD Client error: [3] Connection lost
+25.07.2018 12:36:00 WARNING: ACD Client error: [3] Соединение с сервером телефонии потеряно
+25.07.2018 12:36:10 WARNING: ACD Client error: [3] Соединение с сервером телефонии потеряно
+25.07.2018 12:36:14 ALL: 25.07.2018 12:36:14: Received event: {"event":"state","state":6}
+
+25.07.2018 12:36:14 ALL: 25.07.2018 12:36:14: Received event: {"event":"state","state":6}
+
+25.07.2018 12:36:14 ALL: 25.07.2018 12:36:14: Received event: {"event":"state","state":6}
+
+25.07.2018 12:36:21 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:41:16 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:46:11 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:51:06 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 12:56:01 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:00:56 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:05:51 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:10:46 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:15:41 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:17:02 ALL: 25.07.2018 13:17:02: Received event: {"event":"originate_response","id":"153251310852132","response":"Success"}
+
+25.07.2018 13:20:08 ALL: 25.07.2018 13:20:08: Received event: {"event":"originate_response","id":"153251310852132","response":"Success"}
+
+25.07.2018 13:20:17 ALL: 25.07.2018 13:20:17: Received event: {"event":"originate_response","id":"153251393952295","response":"Success"}
+
+25.07.2018 13:20:26 ALL: 25.07.2018 13:20:26: Received event: {"event":"originate_response","id":"153251394852299","response":"Success"}
+
+25.07.2018 13:20:36 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:21:02 ALL: 25.07.2018 13:21:02: Received event: {"event":"originate_response","id":"153251394852299","response":"Success"}
+
+25.07.2018 13:21:08 ALL: 25.07.2018 13:21:08: Received event: {"event":"originate_response","id":"153251394852299","response":"Success"}
+
+25.07.2018 13:24:50 ALL: 25.07.2018 13:24:50: Received event: {"event":"originate_response","id":"153251397552305","response":"Success"}
+
+25.07.2018 13:25:31 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:29:56 ALL: 25.07.2018 13:29:56: Received event: {"event":"originate_response","id":"153251409152341","response":"Success"}
+
+25.07.2018 13:30:26 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:35:21 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:39:12 ALL: 25.07.2018 13:39:12: Received event: {"event":"originate_response","id":"153251482852453","response":"Success"}
+
+25.07.2018 13:39:21 ALL: 25.07.2018 13:39:21: Received event: {"event":"originate_response","id":"153251482852453","response":"Success"}
+
+25.07.2018 13:39:30 ALL: 25.07.2018 13:39:30: Received event: {"event":"originate_response","id":"153251482852453","response":"Success"}
+
+25.07.2018 13:40:16 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:41:03 ALL: 25.07.2018 13:41:03: Received event: {"event":"originate_response","id":"153251491752489","response":"Success"}
+
+25.07.2018 13:45:11 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:50:06 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:55:01 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 13:55:26 ALL: 25.07.2018 13:55:26: Received event: {"event":"originate_response","id":"153251584552651","response":"Success"}
+
+25.07.2018 13:56:56 ALL: 25.07.2018 13:56:56: Received event: {"event":"originate_response","id":"153251584552651","response":"Success"}
+
+25.07.2018 13:57:02 ALL: 25.07.2018 13:57:02: Received event: {"event":"originate_response","id":"153251584552651","response":"Success"}
+
+25.07.2018 13:59:56 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:04:51 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:09:46 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:10:02 ALL: 25.07.2018 14:10:02: Received event: {"event":"originate_response","id":"153251675352759","response":"Success"}
+
+25.07.2018 14:14:02 ALL: 25.07.2018 14:14:02: Received event: {"event":"originate_response","id":"153251704252816","response":"Success"}
+
+25.07.2018 14:14:41 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:19:36 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:24:02 ALL: 25.07.2018 14:24:02: Received event: {"event":"originate_response","id":"153251723952845","response":"Success"}
+
+25.07.2018 14:24:31 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:29:26 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:31:26 ALL: 25.07.2018 14:31:26: Received event: {"event":"originate_response","id":"153251813052961","response":"Success"}
+
+25.07.2018 14:33:03 ALL: 25.07.2018 14:33:03: Received event: {"event":"originate_response","id":"153251813052961","response":"Success"}
+
+25.07.2018 14:34:21 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:39:16 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:44:11 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:49:06 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:54:01 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 14:58:56 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 15:03:51 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 15:05:51 ALL: 25.07.2018 15:05:51: Received event: {"event":"originate_response","id":"153252015153448","response":"Success"}
+
+25.07.2018 15:08:46 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 15:13:41 INFO: Softphone: Успешное завершение регистрации
+25.07.2018 15:18:36 INFO: Softphone: Успешное завершение регистрации

@@ -1,0 +1,86 @@
+23.07.2018 17:30:07 INFO: CheckForUpdate returned 7
+23.07.2018 17:30:07 INFO: Softphone: Регистрация
+23.07.2018 17:30:07 INFO: CallHandlingPage::OnInitDialog() call ID: 0  state: None (0)  called: , calling: 
+23.07.2018 17:30:07 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:10 ALL: 23.07.2018 17:30:10: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:12 ALL: 23.07.2018 17:30:12: Received event: {"cid":"500","direction":"in","event":"ring","id":"1532356212868177","name":"Erpico","queuename":""}
+
+23.07.2018 17:30:14 ALL: Softphone: Начало разговора
+23.07.2018 17:30:14 ALL: 23.07.2018 17:30:14: Received event: {"cid":"500","direction":"in","event":"bridge","id":"1532356212868176","queuename":""}
+
+23.07.2018 17:30:14 INFO: CallHandlingPage::OnInitDialog() call ID: 1532356212868176  state: Connected (4)  called: , calling: 500
+23.07.2018 17:30:23 ALL: 23.07.2018 17:30:23: Received event: {"cid":"500","direction":"in","event":"bridge","id":"1532356212868176","queuename":""}
+
+23.07.2018 17:30:23 ALL: Softphone: Разговор завершен
+23.07.2018 17:30:23 ALL: 23.07.2018 17:30:23: Received event: {"cid":"500","direction":"out","event":"hangup","id":"1532356212868177"}
+
+23.07.2018 17:30:23 ALL: 23.07.2018 17:30:23: Received event: {"cid":"500","direction":"out","event":"hangup","id":"1532356212868177"}
+
+23.07.2018 17:30:23 ALL: 23.07.2018 17:30:23: Received event: {"cid":"500","direction":"in","event":"hangup","id":"1532356212868176"}
+
+23.07.2018 17:30:23 ALL: 23.07.2018 17:30:23: Received event: {"cid":"500","direction":"in","event":"hangup","id":"1532356212868176"}
+
+23.07.2018 17:30:23 INFO: CallHandlingPage::ScheduleClose() call ID: 1532356212868176
+23.07.2018 17:30:23 INFO: CallHandlingPage::ScheduleClose() call ID: 1532356212868176
+23.07.2018 17:30:23 INFO: CallHandlingPage::OnTimer(1) call ID: 1532356212868176
+23.07.2018 17:30:23 INFO: CallHandlingPage::RemoveMe() call ID: 1532356212868176
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:51 ALL: 23.07.2018 17:30:51: Received event: {"event":"state","state":6}
+
+23.07.2018 17:30:54 ALL: 23.07.2018 17:30:54: Received event: {"cid":"500","direction":"in","event":"ring","id":"1532356254868183","name":"Erpico","queuename":""}
+
+23.07.2018 17:31:05 ALL: 23.07.2018 17:31:05: Received event: {"cid":"500","direction":"out","event":"hangup","id":"1532356254868183"}
+
+23.07.2018 17:31:05 ALL: 23.07.2018 17:31:05: Received event: {"cid":"500","direction":"in","event":"hangup","id":"1532356254868182"}
+
+23.07.2018 17:31:05 ALL: 23.07.2018 17:31:05: Received event: {"cid":"500","direction":"in","event":"hangup","id":"1532356254868182"}
+
+23.07.2018 17:35:02 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 17:39:57 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 17:44:52 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 17:49:47 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 17:54:42 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 17:59:37 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 18:04:32 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 18:06:38 ALL: 23.07.2018 18:06:38: Received event: {"cid":"500","direction":"in","event":"ring","id":"1532358398868569","name":"Erpico","queuename":""}
+
+23.07.2018 18:06:42 ALL: 23.07.2018 18:06:42: Received event: {"cid":"500","direction":"out","event":"hangup","id":"1532358398868569"}
+
+23.07.2018 18:06:42 ALL: 23.07.2018 18:06:42: Received event: {"cid":"500","direction":"in","event":"hangup","id":"1532358398868568"}
+
+23.07.2018 18:06:42 ALL: 23.07.2018 18:06:42: Received event: {"cid":"500","direction":"in","event":"hangup","id":"1532358398868568"}
+
+23.07.2018 18:09:27 INFO: Softphone: Успешное завершение регистрации
+23.07.2018 18:14:22 INFO: Softphone: Успешное завершение регистрации
