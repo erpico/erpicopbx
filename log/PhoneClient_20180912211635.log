@@ -1,0 +1,25 @@
+12.09.2018 21:16:57 WARNING: Server returned error (code: 1007) 'User has not authenticated': User with name 'test' has not authenticated
+12.09.2018 21:16:57 WARNING: 'auth' is empty
+12.09.2018 21:17:02 WARNING: Server returned error (code: 1007) 'User has not authenticated': User with name 'erpico' has not authenticated
+12.09.2018 21:17:02 WARNING: 'auth' is empty
+12.09.2018 21:17:09 WARNING: Server returned error (code: 1007) 'User has not authenticated': User with name 'test' has not authenticated
+12.09.2018 21:17:09 WARNING: 'auth' is empty
+12.09.2018 21:17:16 INFO: CheckForUpdate returned 7
+12.09.2018 21:17:17 INFO: Softphone: Регистрация
+12.09.2018 21:17:17 ALL: 12.09.2018 21:17:17: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:17 ALL: 12.09.2018 21:17:17: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:17 ALL: 12.09.2018 21:17:17: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:17 ALL: 12.09.2018 21:17:17: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:18 INFO: Softphone: Регистрация
+12.09.2018 21:17:18 INFO: Softphone: Успешное завершение регистрации
+12.09.2018 21:17:18 WARNING: ACD Client error: [3] Соединение с сервером телефонии потеряно
+12.09.2018 21:17:18 ALL: 12.09.2018 21:17:18: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:18 ALL: 12.09.2018 21:17:18: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:23 ALL: 12.09.2018 21:17:23: Received event: {"event":"state","state":6}
+

@@ -1,0 +1,13 @@
+12.09.2018 21:17:34 WARNING: Server returned error (code: 1007) 'User has not authenticated': User with name '199' has not authenticated
+12.09.2018 21:17:34 WARNING: 'auth' is empty
+12.09.2018 21:17:38 INFO: CheckForUpdate returned 7
+12.09.2018 21:17:40 ALL: 12.09.2018 21:17:40: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:40 ALL: 12.09.2018 21:17:40: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:40 WARNING: ACD Client error: [3] Соединение с сервером телефонии потеряно
+12.09.2018 21:17:40 ALL: 12.09.2018 21:17:40: Received event: {"event":"state","state":6}
+
+12.09.2018 21:17:44 ALL: DB 0xB7BD860 connected.
+12.09.2018 21:18:51 ALL: 12.09.2018 21:18:51: Received event: {"event":"state","state":6}
+

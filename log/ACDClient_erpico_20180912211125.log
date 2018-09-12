@@ -1,0 +1,63 @@
+12.09.2018 21:11:25 INFO: CheckForUpdate returned 7
+12.09.2018 21:11:25 ALL: 12.09.2018 21:11:25: Received event: {"event":"state","state":6}
+
+12.09.2018 21:11:25 ALL: 12.09.2018 21:11:25: Received event: {"event":"state","state":6}
+
+12.09.2018 21:11:27 INFO: Softphone: Регистрация
+12.09.2018 21:11:27 INFO: CallHandlingPage::OnInitDialog() call ID: 0  state: None (0)  called: , calling: 
+12.09.2018 21:11:28 INFO: Softphone: Успешное завершение регистрации
+12.09.2018 21:11:31 ALL: 12.09.2018 21:11:31: Received event: {"event":"state","state":6}
+
+12.09.2018 21:11:31 ALL: 12.09.2018 21:11:31: Received event: {"event":"state","state":6}
+
+12.09.2018 21:11:31 ALL: 12.09.2018 21:11:31: Received event: {"event":"state","state":6}
+
+12.09.2018 21:11:31 ALL: 12.09.2018 21:11:31: Received event: {"event":"state","state":6}
+
+12.09.2018 21:11:32 ALL: 12.09.2018 21:11:32: Received event: {"event":"state","state":5}
+
+12.09.2018 21:11:32 ALL: 12.09.2018 21:11:32: Received event: {"event":"state","state":5}
+
+12.09.2018 21:11:49 ALL: 12.09.2018 21:11:49: Received event: {"cid":"4911","direction":"in","event":"ring","id":"1536775910141318","name":"Erpico","queuename":"test"}
+
+12.09.2018 21:11:52 ALL: Softphone: Начало разговора
+12.09.2018 21:11:52 ALL: 12.09.2018 21:11:52: Received event: {"cid":"4911","direction":"in","event":"bridge","id":"1536775910141317","queuename":"test"}
+
+12.09.2018 21:11:52 INFO: CallHandlingPage::OnInitDialog() call ID: 1536775910141317  state: Connected (4)  called: test, calling: 4911
+12.09.2018 21:12:58 ALL: Softphone: Разговор завершен
+12.09.2018 21:12:59 ALL: 12.09.2018 21:12:59: Received event: {"cid":"4911","direction":"out","event":"hangup","id":"1536775910141318"}
+
+12.09.2018 21:12:59 ALL: 12.09.2018 21:12:59: Received event: {"cid":"4911","direction":"out","event":"hangup","id":"1536775910141318"}
+
+12.09.2018 21:12:59 ALL: 12.09.2018 21:12:59: Received event: {"cid":"4911","direction":"in","event":"hangup","id":"1536775910141317"}
+
+12.09.2018 21:12:59 ALL: 12.09.2018 21:12:59: Received event: {"cid":"4911","direction":"in","event":"hangup","id":"1536775910141317"}
+
+12.09.2018 21:12:59 INFO: CallHandlingPage::ScheduleClose() call ID: 1536775910141317
+12.09.2018 21:12:59 INFO: CallHandlingPage::ScheduleClose() call ID: 1536775910141317
+12.09.2018 21:12:59 INFO: CallHandlingPage::OnTimer(1) call ID: 1536775910141317
+12.09.2018 21:12:59 INFO: CallHandlingPage::RemoveMe() call ID: 1536775910141317
+12.09.2018 21:14:33 ALL: 12.09.2018 21:14:33: Received event: {"cid":"4911","direction":"in","event":"ring","id":"1536776073141322","name":"Erpico","queuename":"test"}
+
+12.09.2018 21:14:45 ALL: 12.09.2018 21:14:45: Received event: {"cid":"4911","direction":"out","event":"hangup","id":"1536776073141322"}
+
+12.09.2018 21:14:45 ALL: Softphone: Разговор завершен
+12.09.2018 21:14:46 ALL: 12.09.2018 21:14:46: Received event: {"cid":"4911","direction":"in","event":"ring","id":"1536776086141323","name":"Erpico","queuename":"test"}
+
+12.09.2018 21:14:47 ALL: Softphone: Начало разговора
+12.09.2018 21:14:47 ALL: 12.09.2018 21:14:47: Received event: {"cid":"4911","direction":"in","event":"bridge","id":"1536776073141321","queuename":"test"}
+
+12.09.2018 21:14:47 INFO: CallHandlingPage::OnInitDialog() call ID: 1536776073141321  state: Connected (4)  called: test, calling: 4911
+12.09.2018 21:15:32 INFO: CallHandlingPage::OnBnClickedHangUp() call ID: 1536776073141321
+12.09.2018 21:15:32 INFO: CallHandlingPage::ScheduleClose() call ID: 1536776073141321
+12.09.2018 21:15:32 INFO: CallHandlingPage::OnTimer(1) call ID: 1536776073141321
+12.09.2018 21:15:32 INFO: CallHandlingPage::RemoveMe() call ID: 1536776073141321
+12.09.2018 21:15:32 ALL: Softphone: Разговор завершен
+12.09.2018 21:15:33 ALL: 12.09.2018 21:15:33: Received event: {"cid":"4911","direction":"out","event":"hangup","id":"1536776086141323"}
+
+12.09.2018 21:15:33 ALL: 12.09.2018 21:15:33: Received event: {"cid":"4911","direction":"out","event":"hangup","id":"1536776086141323"}
+
+12.09.2018 21:15:33 ALL: 12.09.2018 21:15:33: Received event: {"cid":"4911","direction":"in","event":"hangup","id":"1536776073141321"}
+
+12.09.2018 21:15:33 ALL: 12.09.2018 21:15:33: Received event: {"cid":"4911","direction":"in","event":"hangup","id":"1536776073141321"}
+
